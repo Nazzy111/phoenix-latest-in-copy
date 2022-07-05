@@ -1,13 +1,13 @@
 class script(object):
-    START_TXT = """𝐇𝐞𝐲 {}\n\n⎆𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 𝐏𝐡𝐨𝐞𝐧𝐢𝐱\n\n⎆𝐈 𝐀𝐦 𝐚 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐟𝐢𝐥𝐭𝐞𝐫 𝐁𝐨𝐭.\n\n⎆𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐖𝐢𝐭𝐡 <a href='https://t.me/Cinemahub182'>𝐂𝐈𝐍𝐄𝐌𝐀𝐇𝐔𝐁...</a>\n\n➪ 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Kaithiofdarkness369'> 𝑆𝑜𝑜𝑟𝑦𝑎 𝐷𝑢𝑡ℎ </a>\n➪ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝  𝐁𝐲 : <a href='https://t.me/Anandhukuttu'>  𝐴𝑛𝑎𝑛𝑑ℎ𝑢 </a>"""
+    START_TXT = """𝐇𝐞𝐲 {}\n\n⎆𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 IU\n\n⎆𝐈 𝐀𝐦 𝐚 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐟𝐢𝐥𝐭𝐞𝐫 𝐁𝐨𝐭.\n\n⎆𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐖𝐢𝐭𝐡 <a href='https://t.me/nazzymovies'>𝐍𝐀𝐙𝐙𝐘𝐌𝐎𝐕𝐈𝐄𝐒...</a>\n\n➪ 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/Kaithiofdarkness369'> 𝑆𝑜𝑜𝑟𝑦𝑎 𝐷𝑢𝑡ℎ </a>\n➪ 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝  𝐁𝐲 : <a href='https://t.me/NAZZY_FF'>  𝐍𝐀𝐙𝐙𝐘 </a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """<b>🥱 My Name : 𝐏𝐡𝐨𝐞𝐧𝐢𝐱
-🕵‍♂ Developer : <a href='https://t.me/Anandhukuttu'>★ 𝓐𝓷𝓪𝓷𝓭𝓱𝓾 ★</a>
+    ABOUT_TXT = """<b>🥱 My Name : IU
+🕵‍♂ Developer : <a href='https://t.me/NAZZY_FF'>★ 𝓐𝓷𝓪𝓷𝓭𝓱𝓾 ★</a>
 📚 Library : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 🖥 Language : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 🎪 Data Base : 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-🔋 Bot Group : @Cinemahub182 </b>"""
+🔋 Bot Group : @nazzymovies </b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 <b>𝖳𝗁𝗂𝗌 𝖡𝗈𝗍 𝖶𝖺𝗌 𝖬𝖺𝗄𝖾𝖽 𝖳𝖺𝗄𝗂𝗇𝗀 𝖲𝗈𝗆𝖺𝗇𝗒 𝖱𝖾𝗉𝗈𝗌 𝖮𝖿 𝖮𝗍𝗁𝖾𝗋 𝖪𝗂𝗇𝖽 𝖡𝗈𝗍𝗌
 𝖲𝖮𝖴𝖱𝖢𝖤 𝖢𝖮𝖣𝖤 ~ 𝖭𝖮𝖳 𝖠𝖵𝖠𝖨𝖫𝖠𝖡𝖫𝖤 𝖱𝖨𝖦𝖧𝖳 𝖭𝖮𝖶
@@ -34,7 +34,7 @@ A Module To Convert TEXT To Voice With Language Support
     MANUALFILTER_TXT = """Help: <b>Filters</b>
 - Filter is the feature were users can set automated replies for a particular keyword and tessa will respond whenever a keyword is found the message
 <b>NOTE:</b>
-1. Bella Bot should have admin privillage.
+1. IU Bot should have admin privillage.
 2. only admins can add filters in a chat.
 3. alert buttons have a limit of 64 characters.
 <b>Commands and Usage:</b>
@@ -43,7 +43,7 @@ A Module To Convert TEXT To Voice With Language Support
 • /del - <code>delete a specific filter in chat</code>
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
-- Bella Bot Supports both url and alert inline buttons.
+- IU Bot Supports both url and alert inline buttons.
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
 2. Bella Bot supports buttons with any telegram media type.
