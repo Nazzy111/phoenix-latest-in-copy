@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """𝐇𝐞𝐲 {}\n\n⎆𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 Iᑌ\n\n⎆𝐈 𝐀𝐦 𝐚 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐟𝐢𝐥𝐭𝐞𝐫 𝐁𝐨𝐭.\n\n⎆𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐖𝐢𝐭𝐡 <a href='https://t.me/nazzymovies'>NAZZY MOVIES...</a>\n\n➪ 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/NAZZY_FF'>𝖓𝖆𝖟𝖟𝖞</a>"""
+    START_TXT = """𝐇𝐞𝐲 {}\n\n⎆𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 Iᑌ\n\n⎆𝐈 𝐀𝐦 𝐚 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐟𝐢𝐥𝐭𝐞𝐫 𝐁𝐨𝐭.\n\n⎆𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐖𝐢𝐭𝐡 <a href='https://t.me/nazzymovies'>NAZZY MOVIES...</a>\n\n➪ 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐁𝐲 : <a href='https://t.me/NAZZY_FF'>𝗡𝗔𝗔𝗖𝗛𝗨</a>"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """<b>🥱 My Name : Iᑌ
