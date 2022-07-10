@@ -414,7 +414,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [
-            [InlineKeyboardButton('😊 About', callback_data='about')
+            [InlineKeyboardButton("➕️ 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 ➕️", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
