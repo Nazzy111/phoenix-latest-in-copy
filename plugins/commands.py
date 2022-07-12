@@ -88,7 +88,7 @@ async def start(client, message):
         return
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton("🔰 𝘈𝘋𝘋 𝘔𝘌 𝘛𝘖 𝘠𝘖𝘜 𝘎𝘙𝘖𝘜𝘗 🔰", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
+            InlineKeyboardButton("🔰 𝘈𝘋𝘋 𝘔𝘌 𝘛𝘖 𝘠𝘖𝘜𝘙 𝘎𝘙𝘖𝘜𝘗 🔰", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton("⚡ 𝐎𝐖𝐍𝐄𝐑 ⚡", url="https://t.me/NAZZY_FF"), 
             InlineKeyboardButton("♻️ 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 ♻️", url="https://t.me/nazzymovies1")
